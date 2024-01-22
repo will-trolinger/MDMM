@@ -1,0 +1,52 @@
+{
+    "selected_areas": {
+        "geo_ids": [
+            "0211260",
+            "0221820",
+            "0227940",
+            "0228540",
+            "0299999"
+        ]
+    },
+    "firm_attributes": {
+        "naics_level": "naics2",
+        "selected_naics": [
+            "00"
+        ],
+        "ownership": "op",
+        "fas": "fa",
+        "firm_age": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "firm_size": [
+            "0"
+        ]
+    },
+    "worker_attributes": {
+        "group": "se",
+        "attr1": [
+            "0"
+        ],
+       "attr2":[
+            "E0",
+            "E1",
+            "E2",
+            "E3",
+            "E4"
+        ]
+    },
+    "indicators": [
+        "Emp"
+    ],
+    "quarters": [
+        "2015.1",
+        "2015.2",
+        "2015.3",
+        "2015.4"
+    ],
+    "export_labels": true,
+    "worker_xing": "se"
+}

@@ -1,0 +1,145 @@
+geography,geography_label.value,quarter,firmage_label.value,Emp_Bachelor,Emp_HS,Emp_LessThanHS,Emp_Associates
+22220,"Fayetteville-Springdale-Rogers, AR",1,0-1 Years,883,1283,710,1277
+22220,"Fayetteville-Springdale-Rogers, AR",4,4-5 Years,1277,1600,906,1667
+22220,"Fayetteville-Springdale-Rogers, AR",4,2-3 Years,1094,1439,825,1468
+22220,"Fayetteville-Springdale-Rogers, AR",4,0-1 Years,1216,1587,873,1627
+22220,"Fayetteville-Springdale-Rogers, AR",3,2-3 Years,1103,1421,846,1451
+22220,"Fayetteville-Springdale-Rogers, AR",3,0-1 Years,1130,1472,798,1516
+22220,"Fayetteville-Springdale-Rogers, AR",3,4-5 Years,1297,1606,918,1705
+22220,"Fayetteville-Springdale-Rogers, AR",2,2-3 Years,1073,1387,822,1430
+22220,"Fayetteville-Springdale-Rogers, AR",2,0-1 Years,1090,1432,789,1474
+22220,"Fayetteville-Springdale-Rogers, AR",1,4-5 Years,1233,1498,859,1561
+22220,"Fayetteville-Springdale-Rogers, AR",1,2-3 Years,1053,1371,789,1394
+22220,"Fayetteville-Springdale-Rogers, AR",2,4-5 Years,1244,1493,849,1577
+22900,"Fort Smith, AR-OK (AR part)",3,2-3 Years,342,530,278,552
+22900,"Fort Smith, AR-OK (AR part)",4,4-5 Years,409,738,350,788
+22900,"Fort Smith, AR-OK (AR part)",4,2-3 Years,350,546,294,561
+22900,"Fort Smith, AR-OK (AR part)",4,0-1 Years,296,496,254,490
+22900,"Fort Smith, AR-OK (AR part)",3,4-5 Years,423,766,368,810
+22900,"Fort Smith, AR-OK (AR part)",3,0-1 Years,276,494,246,501
+22900,"Fort Smith, AR-OK (AR part)",1,4-5 Years,396,708,335,779
+22900,"Fort Smith, AR-OK (AR part)",2,2-3 Years,330,519,283,541
+22900,"Fort Smith, AR-OK (AR part)",2,0-1 Years,318,548,264,566
+22900,"Fort Smith, AR-OK (AR part)",1,2-3 Years,316,537,296,550
+22900,"Fort Smith, AR-OK (AR part)",1,0-1 Years,318,527,253,546
+22900,"Fort Smith, AR-OK (AR part)",2,4-5 Years,412,732,347,795
+25060,"Gulfport-Biloxi, MS",3,2-3 Years,905,1428,772,1485
+25060,"Gulfport-Biloxi, MS",4,4-5 Years,669,1118,653,1173
+25060,"Gulfport-Biloxi, MS",4,2-3 Years,907,1412,753,1497
+25060,"Gulfport-Biloxi, MS",4,0-1 Years,577,961,592,985
+25060,"Gulfport-Biloxi, MS",3,0-1 Years,547,933,560,962
+25060,"Gulfport-Biloxi, MS",3,4-5 Years,669,1148,685,1219
+25060,"Gulfport-Biloxi, MS",2,2-3 Years,888,1406,759,1447
+25060,"Gulfport-Biloxi, MS",2,0-1 Years,507,882,532,903
+25060,"Gulfport-Biloxi, MS",2,4-5 Years,717,1185,695,1250
+25060,"Gulfport-Biloxi, MS",1,4-5 Years,724,1155,680,1230
+25060,"Gulfport-Biloxi, MS",1,2-3 Years,839,1339,712,1359
+25060,"Gulfport-Biloxi, MS",1,0-1 Years,479,780,496,828
+25620,"Hattiesburg, MS",4,2-3 Years,235,329,193,340
+25620,"Hattiesburg, MS",4,0-1 Years,213,339,187,318
+25620,"Hattiesburg, MS",3,4-5 Years,293,497,291,491
+25620,"Hattiesburg, MS",3,2-3 Years,234,327,191,340
+25620,"Hattiesburg, MS",3,0-1 Years,201,331,197,311
+25620,"Hattiesburg, MS",4,4-5 Years,284,511,286,502
+25620,"Hattiesburg, MS",2,2-3 Years,240,337,193,350
+25620,"Hattiesburg, MS",2,0-1 Years,180,315,183,280
+25620,"Hattiesburg, MS",1,4-5 Years,271,432,258,429
+25620,"Hattiesburg, MS",1,2-3 Years,233,387,229,399
+25620,"Hattiesburg, MS",1,0-1 Years,204,315,185,291
+25620,"Hattiesburg, MS",2,4-5 Years,287,487,283,488
+26300,"Hot Springs, AR",4,4-5 Years,231,345,167,378
+26300,"Hot Springs, AR",4,2-3 Years,195,304,140,320
+26300,"Hot Springs, AR",4,0-1 Years,256,428,204,467
+26300,"Hot Springs, AR",3,4-5 Years,230,338,168,379
+26300,"Hot Springs, AR",3,2-3 Years,190,288,134,299
+26300,"Hot Springs, AR",3,0-1 Years,269,466,228,487
+26300,"Hot Springs, AR",2,4-5 Years,229,322,165,377
+26300,"Hot Springs, AR",2,0-1 Years,244,434,199,454
+26300,"Hot Springs, AR",1,4-5 Years,188,275,137,319
+26300,"Hot Springs, AR",1,2-3 Years,214,302,152,325
+26300,"Hot Springs, AR",1,0-1 Years,226,393,184,415
+26300,"Hot Springs, AR",2,2-3 Years,182,275,129,290
+27140,"Jackson, MS",3,2-3 Years,1255,1919,1160,2023
+27140,"Jackson, MS",4,2-3 Years,1264,1948,1186,2076
+27140,"Jackson, MS",4,0-1 Years,1032,1587,946,1662
+27140,"Jackson, MS",3,4-5 Years,1195,1750,1020,1900
+27140,"Jackson, MS",3,0-1 Years,975,1513,885,1578
+27140,"Jackson, MS",4,4-5 Years,1240,1807,1060,1967
+27140,"Jackson, MS",2,2-3 Years,1155,1653,975,1759
+27140,"Jackson, MS",2,0-1 Years,1053,1685,1022,1779
+27140,"Jackson, MS",1,4-5 Years,1094,1554,850,1674
+27140,"Jackson, MS",1,2-3 Years,1157,1776,1074,1845
+27140,"Jackson, MS",1,0-1 Years,1039,1651,981,1759
+27140,"Jackson, MS",2,4-5 Years,1178,1769,1033,1894
+27860,"Jonesboro, AR",4,2-3 Years,301,460,239,445
+27860,"Jonesboro, AR",4,0-1 Years,243,338,165,311
+27860,"Jonesboro, AR",3,4-5 Years,244,426,209,417
+27860,"Jonesboro, AR",3,2-3 Years,327,519,268,509
+27860,"Jonesboro, AR",3,0-1 Years,222,314,146,298
+27860,"Jonesboro, AR",4,4-5 Years,273,475,234,476
+27860,"Jonesboro, AR",2,2-3 Years,326,543,274,526
+27860,"Jonesboro, AR",2,0-1 Years,228,329,153,288
+27860,"Jonesboro, AR",1,4-5 Years,202,377,177,352
+27860,"Jonesboro, AR",1,2-3 Years,328,517,258,533
+27860,"Jonesboro, AR",1,0-1 Years,234,327,152,293
+27860,"Jonesboro, AR",2,4-5 Years,217,400,180,388
+30780,"Little Rock-North Little Rock-Conway, AR",4,4-5 Years,1885,2461,1261,2598
+30780,"Little Rock-North Little Rock-Conway, AR",4,2-3 Years,1738,2267,1213,2435
+30780,"Little Rock-North Little Rock-Conway, AR",4,0-1 Years,1321,2008,1103,2040
+30780,"Little Rock-North Little Rock-Conway, AR",3,4-5 Years,1857,2457,1245,2573
+30780,"Little Rock-North Little Rock-Conway, AR",3,2-3 Years,1726,2282,1228,2435
+30780,"Little Rock-North Little Rock-Conway, AR",3,0-1 Years,1293,1897,1017,1919
+30780,"Little Rock-North Little Rock-Conway, AR",2,4-5 Years,1838,2431,1217,2524
+30780,"Little Rock-North Little Rock-Conway, AR",2,0-1 Years,1341,1987,1061,2082
+30780,"Little Rock-North Little Rock-Conway, AR",1,4-5 Years,1734,2338,1212,2430
+30780,"Little Rock-North Little Rock-Conway, AR",1,2-3 Years,1764,2324,1214,2471
+30780,"Little Rock-North Little Rock-Conway, AR",1,0-1 Years,1254,1897,1024,2031
+30780,"Little Rock-North Little Rock-Conway, AR",2,2-3 Years,1755,2293,1216,2443
+32820,"Memphis, TN-MS-AR (AR part)",3,2-3 Years,63,100,63,132
+32820,"Memphis, TN-MS-AR (AR part)",4,2-3 Years,77,119,78,151
+32820,"Memphis, TN-MS-AR (AR part)",4,0-1 Years,66,100,71,113
+32820,"Memphis, TN-MS-AR (AR part)",4,4-5 Years,51,111,64,104
+32820,"Memphis, TN-MS-AR (AR part)",3,0-1 Years,60,103,78,117
+32820,"Memphis, TN-MS-AR (AR part)",3,4-5 Years,61,131,73,110
+32820,"Memphis, TN-MS-AR (AR part)",2,2-3 Years,61,103,59,133
+32820,"Memphis, TN-MS-AR (AR part)",2,0-1 Years,59,109,81,117
+32820,"Memphis, TN-MS-AR (AR part)",1,4-5 Years,76,159,91,159
+32820,"Memphis, TN-MS-AR (AR part)",1,2-3 Years,65,110,61,131
+32820,"Memphis, TN-MS-AR (AR part)",1,0-1 Years,57,103,74,114
+32820,"Memphis, TN-MS-AR (AR part)",2,4-5 Years,79,173,100,167
+32820,"Memphis, TN-MS-AR (MS part)",4,4-5 Years,318,545,316,520
+32820,"Memphis, TN-MS-AR (MS part)",4,2-3 Years,376,627,398,598
+32820,"Memphis, TN-MS-AR (MS part)",4,0-1 Years,276,490,282,473
+32820,"Memphis, TN-MS-AR (MS part)",3,4-5 Years,316,561,313,534
+32820,"Memphis, TN-MS-AR (MS part)",3,2-3 Years,377,667,415,622
+32820,"Memphis, TN-MS-AR (MS part)",3,0-1 Years,244,451,265,414
+32820,"Memphis, TN-MS-AR (MS part)",2,4-5 Years,319,579,340,546
+32820,"Memphis, TN-MS-AR (MS part)",2,2-3 Years,363,658,382,596
+32820,"Memphis, TN-MS-AR (MS part)",2,0-1 Years,246,460,269,429
+32820,"Memphis, TN-MS-AR (MS part)",1,4-5 Years,317,619,361,588
+32820,"Memphis, TN-MS-AR (MS part)",1,2-3 Years,352,600,353,550
+32820,"Memphis, TN-MS-AR (MS part)",1,0-1 Years,253,480,280,445
+38220,"Pine Bluff, AR",4,2-3 Years,96,175,85,156
+38220,"Pine Bluff, AR",4,0-1 Years,101,177,95,162
+38220,"Pine Bluff, AR",4,4-5 Years,102,150,81,127
+38220,"Pine Bluff, AR",3,4-5 Years,107,155,85,127
+38220,"Pine Bluff, AR",3,2-3 Years,85,167,83,147
+38220,"Pine Bluff, AR",3,0-1 Years,87,166,86,142
+38220,"Pine Bluff, AR",1,4-5 Years,120,155,86,148
+38220,"Pine Bluff, AR",2,2-3 Years,82,168,81,149
+38220,"Pine Bluff, AR",2,0-1 Years,96,159,82,148
+38220,"Pine Bluff, AR",1,2-3 Years,69,172,87,153
+38220,"Pine Bluff, AR",1,0-1 Years,104,159,83,141
+38220,"Pine Bluff, AR",2,4-5 Years,119,157,89,142
+45500,"Texarkana, TX-AR (AR part)",4,0-1 Years,47,109,62,100
+45500,"Texarkana, TX-AR (AR part)",3,4-5 Years,57,114,62,125
+45500,"Texarkana, TX-AR (AR part)",3,2-3 Years,55,128,82,105
+45500,"Texarkana, TX-AR (AR part)",3,0-1 Years,48,109,59,105
+45500,"Texarkana, TX-AR (AR part)",2,4-5 Years,47,94,50,102
+45500,"Texarkana, TX-AR (AR part)",2,0-1 Years,58,137,78,125
+45500,"Texarkana, TX-AR (AR part)",1,4-5 Years,56,105,62,122
+45500,"Texarkana, TX-AR (AR part)",1,2-3 Years,43,113,74,86
+45500,"Texarkana, TX-AR (AR part)",1,0-1 Years,51,135,72,118
+45500,"Texarkana, TX-AR (AR part)",4,2-3 Years,54,143,90,114
+45500,"Texarkana, TX-AR (AR part)",2,2-3 Years,50,108,72,98
+45500,"Texarkana, TX-AR (AR part)",4,4-5 Years,61,107,63,114
